@@ -1,0 +1,84 @@
+{
+    "tags": [
+        {
+            "title": "React",
+            "AmountOfVideos": 142
+          },
+          {
+            "title": "Angular",
+            "AmountOfVideos": 85
+          },
+          {
+            "title": "Vue.js",
+            "AmountOfVideos": 110
+          },
+          {
+            "title": "Node.js",
+            "AmountOfVideos": 200
+          },
+          {
+            "title": "JavaScript",
+            "AmountOfVideos": 300
+          },
+          {
+            "title": "Python",
+            "AmountOfVideos": 250
+          },
+          {
+            "title": "Java",
+            "AmountOfVideos": 180
+          },
+          {
+            "title": "C#",
+            "AmountOfVideos": 160
+          },
+          {
+            "title": "HTML5",
+            "AmountOfVideos": 120
+          },
+          {
+            "title": "CSS3",
+            "AmountOfVideos": 110
+          },
+          {
+            "title": "Ruby on Rails",
+            "AmountOfVideos": 95
+          },
+          {
+            "title": "Swift",
+            "AmountOfVideos": 70
+          },
+          {
+            "title": "PHP",
+            "AmountOfVideos": 200
+          },
+          {
+            "title": "Django",
+            "AmountOfVideos": 120
+          },
+          {
+            "title": "ASP.NET",
+            "AmountOfVideos": 150
+          },
+          {
+            "title": "Express.js",
+            "AmountOfVideos": 80
+          },
+          {
+            "title": "Spring Boot",
+            "AmountOfVideos": 110
+          },
+          {
+            "title": "jQuery",
+            "AmountOfVideos": 130
+          },
+          {
+            "title": "Laravel",
+            "AmountOfVideos": 100
+          },
+          {
+            "title": "Ember.js",
+            "AmountOfVideos": 50
+          }
+    ]
+}
